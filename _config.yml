@@ -1,0 +1,28 @@
+name: HOG
+favicon: null
+layout_spectrum: 0.4074207739904523
+typography_spectrum: 0.5981478705070913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6579859000630677
+  lightness: 0.4401620915159583
+  saturation: 0.1762051093392074
+  rhythmicContrast: 0.8851750316098332
+purpose: []
