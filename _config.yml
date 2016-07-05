@@ -2,6 +2,7 @@ name: HOG
 favicon: null
 layout_spectrum: 0.4074207739904523
 typography_spectrum: 0.5981478705070913
+title: 'House of Goodies '
 cta:
   domain: null
   bucket: null
